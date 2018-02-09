@@ -1,0 +1,8 @@
+{
+  "name": "lspa",
+  "version": "0.1.0",
+  "description": "List the content of the package.json",
+  "main": "index.js",
+  "author": "zhufuge",
+  "license": "MIT"
+}
