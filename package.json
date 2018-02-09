@@ -2,7 +2,18 @@
   "name": "lspa",
   "version": "0.1.0",
   "description": "List the content of the package.json",
+  "keywords": [
+    "ls",
+    "package",
+    "scripts"
+  ],
   "main": "index.js",
+  "homepage": "https://github.com/zhufuge/lspa",
+  "bugs": "https://github.com/zhufuge/lspa/issues",
+  "repository": {
+    "url": "https://github.com/zhufuge/lspa",
+    "type": "git"
+  },
   "author": "zhufuge",
   "license": "MIT"
 }
