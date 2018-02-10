@@ -15,5 +15,8 @@
     "type": "git"
   },
   "author": "zhufuge",
+  "bin": {
+    "lspa": "./index.js"
+  },
   "license": "MIT"
 }
